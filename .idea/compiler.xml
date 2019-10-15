@@ -9,8 +9,5 @@
         <module name="DSPP_Exercise" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="DSPP_Exercise" target="8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
