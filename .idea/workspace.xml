@@ -8,6 +8,7 @@
   <component name="ChangeListManager">
     <list default="true" id="777c3e98-0775-4eac-a40b-bf47809e8525" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/main/java/DSPPCode/hadoop/select/SelectMapperImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSPPCode/hadoop/select/SelectReducerImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/DSPPTest/student/hadoop/select/SelectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DSPPTest/student/hadoop/select/SelectTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -99,7 +100,7 @@
       <option name="presentableId" value="Default" />
       <updated>1571134237742</updated>
       <workItem from="1571134242856" duration="6935000" />
-      <workItem from="1571151527861" duration="690000" />
+      <workItem from="1571151527861" duration="951000" />
     </task>
     <task id="LOCAL-00001" summary="..">
       <created>1571141963157</created>
