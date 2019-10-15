@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="unnamed4">
+    <output-path>$PROJECT_DIR$/classes/artifacts/unnamed4</output-path>
+    <root id="archive" name="unnamed.jar">
+      <element id="module-output" name="DSPP_Exercise" />
+      <element id="module-source" name="DSPP_Exercise" />
+    </root>
+  </artifact>
+</component>
