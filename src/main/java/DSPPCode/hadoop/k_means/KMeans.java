@@ -97,4 +97,5 @@ abstract public class KMeans {
         return false;
     }
 
+    public abstract void kMeans(String inputPath, String oldCenterPath, String newCenterPath) throws Exception;
 }

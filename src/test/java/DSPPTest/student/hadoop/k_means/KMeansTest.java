@@ -26,8 +26,7 @@ public class KMeansTest extends TestTemplate {
         copyFile(initCenterFile, oldCenterFile);
 
         // 运行 K-Means
-        new KMeansImpl();
-        KMeansImpl.kMeans(inputFile, oldCenterFile, outputFolder);
+        new KMeansImpl().kMeans(inputFile, oldCenterFile, outputFolder);
 
         // 检验结果
         verifyList(readFile2String(oldCenterFile), readFile2String(answerFile));
