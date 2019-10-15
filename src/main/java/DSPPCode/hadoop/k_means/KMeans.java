@@ -24,8 +24,7 @@ abstract public class KMeans {
      * @param oldCenterPath 旧中心点路径, 即初始中心点路径
      * @param newCenterPath 新中心点路径, 即 MapReduce 输出路径
      */
-    public static void kMeans(String inputPath, String oldCenterPath, String newCenterPath) throws Exception {
-    }
+    abstract public void kMeans(String inputPath, String oldCenterPath, String newCenterPath) throws Exception ;
 
     /**
      * 运行 K-Means 一次迭代
@@ -97,5 +96,4 @@ abstract public class KMeans {
         return false;
     }
 
-    public abstract void kMeans(String inputPath, String oldCenterPath, String newCenterPath) throws Exception;
 }
