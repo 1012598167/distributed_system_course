@@ -17,14 +17,15 @@ abstract public class KMeans {
      * 程序执行过程:
      * 1. 从 inputPath 读取数据, 从 oldCenterPath 读取初始中心点, 经过一次迭代将新中心点写入 newCenterPath
      * 2. 比较新旧中心点: 若不相同则用新中心点覆盖旧中心点, 然后重复 1; 否则结束
-     *
+     * <p>
      * 请使用 runOneStep() 和 compareAndUpdateCenters() 实现 K-Means
      *
      * @param inputPath     输入数据路径
      * @param oldCenterPath 旧中心点路径, 即初始中心点路径
      * @param newCenterPath 新中心点路径, 即 MapReduce 输出路径
      */
-    abstract public void kMeans(String inputPath, String oldCenterPath, String newCenterPath) throws Exception;
+    public static void kMeans(String inputPath, String oldCenterPath, String newCenterPath) throws Exception {
+    }
 
     /**
      * 运行 K-Means 一次迭代
