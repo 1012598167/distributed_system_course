@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="unnamed4" />
+      <artifact name="unnamed" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
@@ -392,7 +392,7 @@
       <updated>1571134237742</updated>
       <workItem from="1571134242856" duration="6935000" />
       <workItem from="1571151527861" duration="951000" />
-      <workItem from="1571159825252" duration="5256000" />
+      <workItem from="1571159825252" duration="5614000" />
     </task>
     <task id="LOCAL-00001" summary="..">
       <created>1571141963157</created>
