@@ -10,7 +10,9 @@ import java.io.IOException;
  * 处理 Order 表的数据，根据结果集保留对应的数据，传递到 Reducer 端
  */
 public abstract class OrderMapper extends Mapper<LongWritable, Text, Text, TextPair> {
-
+//    Pair<String, String> pair = new Pair<>("aku", "female");
+//pair.getKey();
+//pair.getValue();
     /**
      * 表数据分割符
      */
