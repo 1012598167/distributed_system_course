@@ -85,7 +85,7 @@ abstract public class KMeans implements Serializable {
     /**
      * TODO 聚类点集合centers中找出距离目标点centers最近的一个聚类点, 返回该聚类点在集合中的索引位置.
      * 输入: 目标点point与聚类点集合centers.
-     * 输出: 所求聚类点在集合中的索引位置, 类型为int, 位置从0开始计算.
+     * 输出: 所求聚类点在集合中的索                         引位置, 类型为int, 位置从0开始计算.
      */
     abstract int closestPoint(Vector point, List<Vector> centers);
 
@@ -95,5 +95,4 @@ abstract public class KMeans implements Serializable {
      * 输出: 两点的距离.
      */
     abstract double squaredDistance(Vector point, Vector index);
-
 }
