@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JoinBolt">
+    <output-path>$PROJECT_DIR$/out/artifacts/JoinBolt</output-path>
+    <root id="archive" name="JoinBolt.jar">
+      <element id="module-output" name="bigdataprogramming_exercise" />
+      <element id="module-source" name="bigdataprogramming_exercise" />
+    </root>
+  </artifact>
+</component>
