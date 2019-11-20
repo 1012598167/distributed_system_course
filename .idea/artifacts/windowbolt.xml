@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="windowbolt">
+    <output-path>$PROJECT_DIR$/out/artifacts/windowbolt</output-path>
+    <root id="archive" name="windowbolt.jar">
+      <element id="module-output" name="bigdataprogramming_exercise" />
+      <element id="module-source" name="bigdataprogramming_exercise" />
+    </root>
+  </artifact>
+</component>
