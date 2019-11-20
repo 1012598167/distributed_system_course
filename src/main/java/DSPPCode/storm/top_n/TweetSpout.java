@@ -15,6 +15,7 @@ import java.util.Map;
 
 public class TweetSpout extends BaseRichSpout {
 
+
     private SpoutOutputCollector collector;
     private String datasource;
     private List<String> tweets;
