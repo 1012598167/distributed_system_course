@@ -15,7 +15,9 @@ import java.util.Map;
 /**
  * Java答案示例
  */
-public class CountBoltImpl extends CountBolt {
+public class
+
+CountBoltImpl extends CountBolt {
 
     public void prepare(Map map, TopologyContext topologyContext, OutputCollector outputCollector) {
         this.collector = outputCollector;
@@ -31,7 +33,7 @@ public class CountBoltImpl extends CountBolt {
                 Map.Entry<String, Integer> entry = iter.next();
                 result += entry.getKey() + "," + entry.getValue() + "\n";
             }
-            result.trim();
+            result.trim();//去掉最后\n
             collector.emit(new Values(result));
         } else {
             if (counter.containsKey(word)) {

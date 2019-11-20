@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="unnamed" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a0875ddd-2fdb-4a32-9a44-950bb3d9bf74" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/logs/workers-artifacts/wc-1-1574215467/1024/worker.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/workers-artifacts/wc-1-1574215507/1024/worker.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/workers-artifacts/wc-1-1574215903/1024/worker.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/workers-artifacts/wc-1-1574217281/1024/worker.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/.idea/artifacts/storm_silde_count_window.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/logs/workers-artifacts/slide_count_window-1-1573471724/1027/worker.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/logs/workers-artifacts/slide_count_window-1-1573471762/1024/worker.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/logs/workers-artifacts/slide_count_window-1-1573545373/1027/worker.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/logs/workers-artifacts/slide_count_window-1-1573545416/1027/worker.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/logs/workers-artifacts/slide_count_window-1-1573545647/1024/worker.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/logs/workers-artifacts/slide_count_window-1-1573545772/1027/worker.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/logs/workers-artifacts/slide_count_window-1-1573548399/1024/worker.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/logs/workers-artifacts/slide_count_window-1-1573549481/1027/worker.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/src/main/java/DSPPCode/storm/slide_count_window/FileReadSpout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/src/main/java/DSPPCode/storm/slide_count_window/PrinterBolt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/src/main/java/DSPPCode/storm/slide_count_window/SlideCountWindowBolt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/src/main/java/DSPPCode/storm/slide_count_window/SlideCountWindowBoltImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/src/main/java/DSPPCode/storm/slide_count_window/util/FileProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/src/test/java/DSPPTest/student/TestTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/src/test/java/DSPPTest/student/storm/slide_count_window/SlideCountWindowTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/src/test/java/DSPPTest/util/FileOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/src/test/java/DSPPTest/util/Parser/KVNumParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/src/test/java/DSPPTest/util/Parser/KVParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/src/test/java/DSPPTest/util/Parser/LineParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/src/test/java/DSPPTest/util/Parser/ListParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/src/test/java/DSPPTest/util/Verifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/src/test/resources/student/storm/slide_count_window/answer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/src/test/resources/student/storm/slide_count_window/input" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/target/classes/DSPPCode/storm/slide_count_window/FileReadSpout.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/target/classes/DSPPCode/storm/slide_count_window/PrinterBolt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/target/classes/DSPPCode/storm/slide_count_window/SlideCountWindowBolt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/target/classes/DSPPCode/storm/slide_count_window/SlideCountWindowBoltImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/target/classes/DSPPCode/storm/slide_count_window/util/FileProcess.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/target/test-classes/DSPPTest/student/TestTemplate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/target/test-classes/DSPPTest/student/storm/slide_count_window/SlideCountWindowTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/target/test-classes/DSPPTest/util/FileOperator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/target/test-classes/DSPPTest/util/Parser/KVNumParser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/target/test-classes/DSPPTest/util/Parser/KVParser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/target/test-classes/DSPPTest/util/Parser/LineParser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/target/test-classes/DSPPTest/util/Parser/ListParser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/target/test-classes/DSPPTest/util/Verifier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/target/test-classes/student/storm/slide_count_window/answer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/target/test-classes/student/storm/slide_count_window/input" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DSPPCode/storm/warm_up/CountBoltImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DSPPCode/storm/warm_up/CountBoltImpl.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1SjzIIYj5yys7TAxrj3BqW1mcrU" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.WordCountTopologyTest.test">
+    <configuration name="KMeansTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bigdataprogramming_exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSPPTest.student.spark.k_means.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DSPPTest.student.spark.k_means" />
+      <option name="MAIN_CLASS_NAME" value="DSPPTest.student.spark.k_means.KMeansTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PageRankTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bigdataprogramming_exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSPPTest.student.spark.pagerank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DSPPTest.student.spark.pagerank" />
+      <option name="MAIN_CLASS_NAME" value="DSPPTest.student.spark.pagerank.PageRankTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PageRankTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bigdataprogramming_exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSPPTest.student.spark.pagerank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DSPPTest.student.spark.pagerank" />
+      <option name="MAIN_CLASS_NAME" value="DSPPTest.student.spark.pagerank.PageRankTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShuffleJoinTest.test" type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="DSPP_Exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSPPTest.student.spark.shuffle_join.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DSPPTest.student.spark.shuffle_join" />
+      <option name="MAIN_CLASS_NAME" value="DSPPTest.student.spark.shuffle_join.ShuffleJoinTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCountTopologyTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DSPP_Exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSPPTest.student.storm.warm_up.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DSPPTest.student.storm.warm_up" />
+      <option name="MAIN_CLASS_NAME" value="DSPPTest.student.storm.warm_up.WordCountTopologyTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WordCountTopologyTest.test" />
+        <item itemvalue="JUnit.PageRankTest.test" />
+        <item itemvalue="JUnit.PageRankTest" />
+        <item itemvalue="JUnit.KMeansTest.test" />
+        <item itemvalue="JUnit.ShuffleJoinTest.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0875ddd-2fdb-4a32-9a44-950bb3d9bf74" name="Default Changelist" comment="" />
+      <created>1572091711272</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572091711272</updated>
+      <workItem from="1572091713389" duration="3365000" />
+      <workItem from="1572095359243" duration="22878000" />
+      <workItem from="1572358936302" duration="7327000" />
+      <workItem from="1572527589637" duration="4060000" />
+      <workItem from="1573126465824" duration="1518000" />
+      <workItem from="1574067561364" duration="2690000" />
+      <workItem from="1574070521700" duration="4486000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DSPPCode/spark/broadcast_join/BroadcastJoinMapperImpl.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DSPPCode/spark/shuffle_join/ShuffleJoinImpl.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DSPPCode/spark/shuffle_join/ShuffleJoinImpl.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DSPPCode/spark/pagerank/CalculateRankImpl.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DSPPCode/storm/warm_up/PrinterBolt.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="ardd.mapValues(v-&gt;v._1+&quot;,&quot;+v._2)" language="JAVA" />
+        <watch expression="ardd.mapValues(v-&gt;v._1+&quot;,&quot;+v._2)._2" language="JAVA" />
+        <watch expression="counter.entrySet()" language="JAVA" />
+        <watch expression="result" language="JAVA" />
+        <watch expression="result.trim()" language="JAVA" />
+        <watch expression="new Values(result)" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
