@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="top_n">
+    <output-path>$PROJECT_DIR$/out/artifacts/top_n</output-path>
+    <root id="archive" name="top_n.jar">
+      <element id="module-output" name="bigdataprogramming_exercise" />
+      <element id="module-source" name="bigdataprogramming_exercise" />
+    </root>
+  </artifact>
+</component>

@@ -6,24 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0875ddd-2fdb-4a32-9a44-950bb3d9bf74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/logs/workers-artifacts/topn-1-1574217833/1024/worker.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/workers-artifacts/topn-1-1574241824/1027/worker.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/workers-artifacts/topn-1-1574242254/1024/worker.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/workers-artifacts/topn-1-1574242501/1024/worker.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/workers-artifacts/topn-1-1574246479/1027/worker.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/workers-artifacts/topn-1-1574248677/1027/worker.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/workers-artifacts/topn-1-1574248820/1027/worker.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/workers-artifacts/topn-1-1574249039/1024/worker.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/workers-artifacts/topn-1-1574249095/1027/worker.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/workers-artifacts/topn-1-1574249176/1024/worker.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/workers-artifacts/topn-1-1574249580/1024/worker.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/workers-artifacts/topn-1-1574249618/1024/worker.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/workers-artifacts/topn-1-1574251303/1024/worker.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSPPCode/storm/top_n/TopicCountBoltImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DSPPCode/storm/top_n/TweetSpout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DSPPCode/storm/top_n/TweetSpout.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/student/storm/top_n/answer" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/student/storm/top_n/answer" afterDir="false" />
-    </list>
+    <list default="true" id="a0875ddd-2fdb-4a32-9a44-950bb3d9bf74" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,7 +176,7 @@
       <workItem from="1573126465824" duration="1518000" />
       <workItem from="1574067561364" duration="2690000" />
       <workItem from="1574070521700" duration="4631000" />
-      <workItem from="1574217529806" duration="6307000" />
+      <workItem from="1574217529806" duration="6535000" />
     </task>
     <servers />
   </component>
@@ -246,8 +229,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/DSPPCode/storm/top_n/TopicCountBoltImpl.java</url>
-          <line>45</line>
-          <option name="timeStamp" value="38" />
+          <line>55</line>
+          <option name="timeStamp" value="39" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
