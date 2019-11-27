@@ -7,14 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0875ddd-2fdb-4a32-9a44-950bb3d9bf74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/logs/workers-artifacts/slide_count_window-1-1574259681/1027/worker.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/workers-artifacts/slide_count_window-1-1574259750/1024/worker.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/workers-artifacts/slide_count_window-1-1574259855/1027/worker.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/workers-artifacts/slide_count_window-1-1574260084/1027/worker.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/workers-artifacts/slide_count_window-1-1574260617/1024/worker.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/workers-artifacts/slide_count_window-1-1574260721/1024/worker.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/windowbolt/windowbolt.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSPPCode/storm/slide_count_window/SlideCountWindowBoltImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -185,7 +178,7 @@
       <workItem from="1573126465824" duration="1518000" />
       <workItem from="1574067561364" duration="2690000" />
       <workItem from="1574070521700" duration="4486000" />
-      <workItem from="1574257114668" duration="4207000" />
+      <workItem from="1574257114668" duration="5457000" />
     </task>
     <servers />
   </component>
@@ -235,11 +228,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/DSPPCode/storm/warm_up/PrinterBolt.java</url>
           <line>31</line>
           <option name="timeStamp" value="32" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/DSPPCode/storm/slide_count_window/SlideCountWindowBoltImpl.java</url>
-          <line>47</line>
-          <option name="timeStamp" value="35" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
