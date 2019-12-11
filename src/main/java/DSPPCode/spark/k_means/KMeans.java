@@ -14,7 +14,6 @@ import java.util.List;
 import java.util.Map;
 
 abstract public class KMeans implements Serializable {
-
     /**
      * 输入:
      * data 表示已经读取了文件input的RDD, 文件中的每条记录为一个二维坐标点, 以逗号为分隔符.
