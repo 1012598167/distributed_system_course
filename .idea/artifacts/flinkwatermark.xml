@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="flinkwatermark">
+    <output-path>$PROJECT_DIR$/out/artifacts/flinkwatermark</output-path>
+    <root id="archive" name="flinkwatermark.jar">
+      <element id="module-output" name="bigdataprogramming_exercise" />
+      <element id="module-source" name="bigdataprogramming_exercise" />
+    </root>
+  </artifact>
+</component>

@@ -10,7 +10,7 @@ abstract public class TimestampWithWatermarkAssigner implements AssignerWithPeri
 
     // 给定的可容忍的时间跨度 t
     static long MAX_OUT_OF_ORDER;
-
+    public Long maxTimestamp = 0L;
     public static void setMaxOutOfOrder(long maxOutOfOrder) {
         MAX_OUT_OF_ORDER = maxOutOfOrder;
     }
