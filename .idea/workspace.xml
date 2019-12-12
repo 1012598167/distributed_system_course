@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="flink_twitter_json_filter" />
+      <artifact name="flink_kmeans" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0875ddd-2fdb-4a32-9a44-950bb3d9bf74" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DSPPCode/flink/k_means/IterationStepImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DSPPCode/flink/k_means/IterationStepImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DSPPCode/flink/k_means/TerminationCriterionImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DSPPCode/flink/k_means/TerminationCriterionImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/DSPPCode/flink/k_means/IterationStepImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSPPCode/flink/k_means/IterationStepImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DSPPCode/flink/k_means/TerminationCriterionImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSPPCode/flink/k_means/TerminationCriterionImpl.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,7 +194,7 @@
       <workItem from="1576044698571" duration="6272000" />
       <workItem from="1576051977996" duration="1614000" />
       <workItem from="1576053597870" duration="229000" />
-      <workItem from="1576054626634" duration="19728000" />
+      <workItem from="1576054626634" duration="22600000" />
     </task>
     <servers />
   </component>
@@ -245,22 +242,22 @@
       <screen x="0" y="27" width="1920" height="988" />
     </state>
     <state x="600" y="295" width="524" height="484" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.27.1920.988@0.27.1920.988" timestamp="1576052538127" />
-    <state width="1622" height="216" key="GridCell.Tab.0.bottom" timestamp="1576148687886">
+    <state width="1622" height="216" key="GridCell.Tab.0.bottom" timestamp="1576161154174">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
-    <state width="1622" height="216" key="GridCell.Tab.0.bottom/0.27.1920.988@0.27.1920.988" timestamp="1576148687886" />
-    <state width="1622" height="216" key="GridCell.Tab.0.center" timestamp="1576148687885">
+    <state width="1622" height="216" key="GridCell.Tab.0.bottom/0.27.1920.988@0.27.1920.988" timestamp="1576161154174" />
+    <state width="1622" height="216" key="GridCell.Tab.0.center" timestamp="1576161154174">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
-    <state width="1622" height="216" key="GridCell.Tab.0.center/0.27.1920.988@0.27.1920.988" timestamp="1576148687885" />
-    <state width="1622" height="216" key="GridCell.Tab.0.left" timestamp="1576148687884">
+    <state width="1622" height="216" key="GridCell.Tab.0.center/0.27.1920.988@0.27.1920.988" timestamp="1576161154174" />
+    <state width="1622" height="216" key="GridCell.Tab.0.left" timestamp="1576161154174">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
-    <state width="1622" height="216" key="GridCell.Tab.0.left/0.27.1920.988@0.27.1920.988" timestamp="1576148687884" />
-    <state width="1622" height="216" key="GridCell.Tab.0.right" timestamp="1576148687885">
+    <state width="1622" height="216" key="GridCell.Tab.0.left/0.27.1920.988@0.27.1920.988" timestamp="1576161154174" />
+    <state width="1622" height="216" key="GridCell.Tab.0.right" timestamp="1576161154174">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
-    <state width="1622" height="216" key="GridCell.Tab.0.right/0.27.1920.988@0.27.1920.988" timestamp="1576148687885" />
+    <state width="1622" height="216" key="GridCell.Tab.0.right/0.27.1920.988@0.27.1920.988" timestamp="1576161154174" />
     <state width="1209" height="311" key="GridCell.Tab.1.bottom" timestamp="1576147261174">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
