@@ -7,6 +7,9 @@ import org.apache.flink.api.java.tuple.Tuple2;
 import org.apache.flink.configuration.Configuration;
 import org.apache.flink.util.Collector;
 
+import java.util.HashMap;
+import java.util.Map;
+
 abstract public class CapacityMonitorFunction
         extends RichFlatMapFunction<Tuple2<String, Integer>, Tuple2<String, Boolean>> {
 
@@ -15,7 +18,7 @@ abstract public class CapacityMonitorFunction
 
     // 当前区域内人数
     transient ValueState<Integer> count;
-
+    Map<String, Integer> themap = new HashMap<>();
     public static void setThreshold(int threshold) {
         THRESHOLD = threshold;
     }
