@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CountVertexImpl">
+    <output-path>$PROJECT_DIR$/out/artifacts/CountVertexImpl</output-path>
+    <root id="archive" name="CountVertexImpl.jar">
+      <element id="module-output" name="bigdataprogramming_exercise" />
+      <element id="module-source" name="bigdataprogramming_exercise" />
+    </root>
+  </artifact>
+</component>
