@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="giraphpagerank" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a0875ddd-2fdb-4a32-9a44-950bb3d9bf74" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/artifacts/giraphpagerank/giraphpagerank.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSPPCode/giraph/page_rank/PageRankImpl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1SjzIIYj5yys7TAxrj3BqW1mcrU" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../giraphprogram2" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="JUnit.PageRankTest">
+    <configuration name="CapacityMonitorTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bigdataprogramming_exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSPPTest.student.flink.capacity_monitor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DSPPTest.student.flink.capacity_monitor" />
+      <option name="MAIN_CLASS_NAME" value="DSPPTest.student.flink.capacity_monitor.CapacityMonitorTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountVertexTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bigdataprogramming_exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSPPTest.student.giraph.count_vertex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DSPPTest.student.giraph.count_vertex" />
+      <option name="MAIN_CLASS_NAME" value="DSPPTest.student.giraph.count_vertex.CountVertexTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountVertexTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bigdataprogramming_exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSPPTest.student.giraph.count_vertex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DSPPTest.student.giraph.count_vertex" />
+      <option name="MAIN_CLASS_NAME" value="DSPPTest.student.giraph.count_vertex.CountVertexTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PageRankTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bigdataprogramming_exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSPPTest.student.giraph.page_rank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DSPPTest.student.giraph.page_rank" />
+      <option name="MAIN_CLASS_NAME" value="DSPPTest.student.giraph.page_rank.PageRankTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WatermarkTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bigdataprogramming_exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSPPTest.student.flink.watermark.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DSPPTest.student.flink.watermark" />
+      <option name="MAIN_CLASS_NAME" value="DSPPTest.student.flink.watermark.WatermarkTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PageRankTest" />
+        <item itemvalue="JUnit.CountVertexTest.test" />
+        <item itemvalue="JUnit.CountVertexTest" />
+        <item itemvalue="JUnit.CapacityMonitorTest.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0875ddd-2fdb-4a32-9a44-950bb3d9bf74" name="Default Changelist" comment="" />
+      <created>1572091711272</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572091711272</updated>
+      <workItem from="1572091713389" duration="3365000" />
+      <workItem from="1572095359243" duration="22878000" />
+      <workItem from="1572358936302" duration="7327000" />
+      <workItem from="1572527589637" duration="4060000" />
+      <workItem from="1573126465824" duration="1518000" />
+      <workItem from="1574067561364" duration="2690000" />
+      <workItem from="1574070521700" duration="4631000" />
+      <workItem from="1574217529806" duration="11046000" />
+      <workItem from="1574256516405" duration="120000" />
+      <workItem from="1575547182287" duration="907000" />
+      <workItem from="1575548102094" duration="908000" />
+      <workItem from="1575896516329" duration="9180000" />
+      <workItem from="1576039919084" duration="4363000" />
+      <workItem from="1576044698571" duration="6272000" />
+      <workItem from="1576051977996" duration="1614000" />
+      <workItem from="1576053597870" duration="229000" />
+      <workItem from="1576054626634" duration="22836000" />
+      <workItem from="1576161729052" duration="5932000" />
+      <workItem from="1576168197409" duration="1368000" />
+      <workItem from="1576169580386" duration="652000" />
+      <workItem from="1576750944584" duration="3458000" />
+      <workItem from="1576760343426" duration="127000" />
+      <workItem from="1576760483927" duration="62000" />
+      <workItem from="1576760558811" duration="3000" />
+      <workItem from="1576760573902" duration="32000" />
+      <workItem from="1576760643944" duration="4000" />
+      <workItem from="1576760651207" duration="11000" />
+      <workItem from="1576760672678" duration="19000" />
+      <workItem from="1576760701390" duration="2000" />
+      <workItem from="1576760738306" duration="6760000" />
+      <workItem from="1576772419790" duration="2835000" />
+      <workItem from="1576776833890" duration="10646000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="178" width="1087" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576766597449">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="418" y="178" width="1087" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.988@0.27.1920.988" timestamp="1576766597449" />
+    <state x="100" y="125" width="1720" height="790" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1576764088982">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="100" y="125" width="1720" height="790" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.27.1920.988@0.27.1920.988" timestamp="1576764088982" />
+    <state x="517" y="279" width="374" height="585" key="#com.intellij.ide.util.MemberChooser" timestamp="1576776926197">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="517" y="279" width="374" height="585" key="#com.intellij.ide.util.MemberChooser/0.27.1920.988@0.27.1920.988" timestamp="1576776926197" />
+    <state x="800" y="412" width="309" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1576776846993">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="800" y="412" width="309" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.27.1920.988@0.27.1920.988" timestamp="1576776846993" />
+    <state x="467" y="281" width="864" height="507" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1576136560902">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="467" y="281" width="864" height="507" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.27.1920.988@0.27.1920.988" timestamp="1576136560902" />
+    <state x="600" y="295" width="524" height="484" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1576052538127">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="600" y="295" width="524" height="484" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.27.1920.988@0.27.1920.988" timestamp="1576052538127" />
+    <state x="743" y="278" width="424" height="484" key="FileChooserDialogImpl" timestamp="1576766479568">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="743" y="278" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.988@0.27.1920.988" timestamp="1576766479568" />
+    <state width="1602" height="333" key="GridCell.Tab.0.bottom" timestamp="1576813510165">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1602" height="333" key="GridCell.Tab.0.bottom/0.27.1920.988@0.27.1920.988" timestamp="1576813510165" />
+    <state width="1602" height="333" key="GridCell.Tab.0.center" timestamp="1576813510164">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1602" height="333" key="GridCell.Tab.0.center/0.27.1920.988@0.27.1920.988" timestamp="1576813510164" />
+    <state width="1602" height="333" key="GridCell.Tab.0.left" timestamp="1576813510164">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1602" height="333" key="GridCell.Tab.0.left/0.27.1920.988@0.27.1920.988" timestamp="1576813510164" />
+    <state width="1602" height="333" key="GridCell.Tab.0.right" timestamp="1576813510164">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1602" height="333" key="GridCell.Tab.0.right/0.27.1920.988@0.27.1920.988" timestamp="1576813510164" />
+    <state width="1201" height="311" key="GridCell.Tab.1.bottom" timestamp="1576808558527">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1201" height="311" key="GridCell.Tab.1.bottom/0.27.1920.988@0.27.1920.988" timestamp="1576808558527" />
+    <state width="1201" height="311" key="GridCell.Tab.1.center" timestamp="1576808558527">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1201" height="311" key="GridCell.Tab.1.center/0.27.1920.988@0.27.1920.988" timestamp="1576808558527" />
+    <state width="1201" height="311" key="GridCell.Tab.1.left" timestamp="1576808558526">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1201" height="311" key="GridCell.Tab.1.left/0.27.1920.988@0.27.1920.988" timestamp="1576808558526" />
+    <state width="1201" height="311" key="GridCell.Tab.1.right" timestamp="1576808558527">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1201" height="311" key="GridCell.Tab.1.right/0.27.1920.988@0.27.1920.988" timestamp="1576808558527" />
+    <state x="787" y="207" width="924" height="684" key="Maven.ArtifactSearchDialog" timestamp="1576048713398">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="787" y="207" width="924" height="684" key="Maven.ArtifactSearchDialog/0.27.1920.988@0.27.1920.988" timestamp="1576048713398" />
+    <state x="355" y="115" width="1022" height="845" key="SettingsEditor" timestamp="1576813741731">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="355" y="115" width="1022" height="845" key="SettingsEditor/0.27.1920.988@0.27.1920.988" timestamp="1576813741731" />
+    <state x="614" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1576750952053">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="614" y="347" key="com.intellij.ide.util.TipDialog/0.27.1920.988@0.27.1920.988" timestamp="1576750952053" />
+    <state x="844" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575547711179">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="844" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1920.988@0.27.1920.988" timestamp="1575547711179" />
+    <state x="608" y="213" width="703" height="614" key="find.popup" timestamp="1576167141064">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="608" y="213" width="703" height="614" key="find.popup/0.27.1920.988@0.27.1920.988" timestamp="1576167141064" />
+    <state x="624" y="236" width="672" height="680" key="run.anything.popup" timestamp="1576141289121">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="624" y="236" width="672" height="680" key="run.anything.popup/0.27.1920.988@0.27.1920.988" timestamp="1576141289121" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DSPPCode/spark/broadcast_join/BroadcastJoinMapperImpl.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DSPPCode/spark/shuffle_join/ShuffleJoinImpl.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DSPPCode/spark/shuffle_join/ShuffleJoinImpl.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DSPPCode/spark/pagerank/CalculateRankImpl.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DSPPCode/storm/warm_up/PrinterBolt.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DSPPCode/storm/top_n/TopicCountBoltImpl.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/DSPPTest/student/flink/twitter_json_filter/TwitterJsonFilterTest.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DSPPCode/flink/twitter_json_filter/ParseJsonAndSplitImpl.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DSPPCode/flink/k_means/TerminationCriterionImpl.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DSPPCode/flink/k_means/IterationStepImpl.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/DSPPTest/student/flink/watermark/WatermarkTest.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DSPPCode/giraph/page_rank/PageRankImpl.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DSPPCode/giraph/page_rank/PageRankImpl.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="ardd.mapValues(v-&gt;v._1+&quot;,&quot;+v._2)" language="JAVA" />
+        <watch expression="ardd.mapValues(v-&gt;v._1+&quot;,&quot;+v._2)._2" language="JAVA" />
+        <watch expression="counter.entrySet()" language="JAVA" />
+        <watch expression="result" language="JAVA" />
+        <watch expression="result.trim()" language="JAVA" />
+        <watch expression="new Values(result)" language="JAVA" />
+        <watch expression="deal.find()" language="JAVA" />
+        <watch expression="deal.group(1)" language="JAVA" />
+        <watch expression="words" language="JAVA" />
+        <watch expression="poundkey.split(tweet)[0]" language="JAVA" />
+        <watch expression="deal.group(1)" language="JAVA" />
+        <watch expression="S(value)" language="JAVA" custom="org.apache.flink.util.SerializedValue" />
+        <watch expression="vertex.getValue()" language="JAVA" />
+        <watch expression="vertex.getNumEdges()" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/bigdataprogramming_exercise$TwitterJsonFilterTest_test.ic" NAME="TwitterJsonFilterTest.test Coverage Results" MODIFIED="1576046039856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>DSPPTest.student.flink.twitter_json_filter.*</FILTER>
+    </SUITE>
+  </component>
+</project>
