@@ -28,15 +28,14 @@ public class PageRankImpl extends PageRank {
                 System.out.println("vertex.getValue()"+vertex.getNumEdges());
                 sendMessage(theid,new DoubleWritable(vertex.getValue().get()/vertex.getNumEdges()));
             }
-            sendMessage(vertex.getId(),new DoubleWritable(0));
-//            vertex.setValue();
-            vertex.voteToHalt();
+//            sendMessage(vertex.getId(),new DoubleWritable(0));
+//            vertex.voteToHalt();
         }
         else if (getSuperstep()<MAX_SUPERSTEP){
 //            Iterator<DoubleWritable> iter = iterable.iterator();
             System.out.println("----------------Superstep"+getSuperstep()+"--------------------------");
             System.out.println("----------------id"+id+"--------------------------");
-            sendMessage(vertex.getId(),new DoubleWritable(0));
+//            sendMessage(vertex.getId(),new DoubleWritable(0));
             DoubleWritable thefinal=new DoubleWritable(0);
 //            for(Edge<LongWritable, FloatWritable> edge:vertex.getEdges()){
 //                LongWritable theid = edge.getTargetVertexId();
@@ -58,7 +57,7 @@ public class PageRankImpl extends PageRank {
 //                sendMessage(theid,new DoubleWritable(vertex.getValue().get()/vertex.getNumEdges()));
                 sendMessage(theid,new DoubleWritable(thefinal.get()/vertex.getNumEdges()));
             }
-            vertex.voteToHalt();
+//            vertex.voteToHalt();
         }
         else {
             vertex.voteToHalt();
