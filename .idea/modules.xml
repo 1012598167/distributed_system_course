@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DSPP_Exercise.iml" filepath="$PROJECT_DIR$/DSPP_Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/bigdataprogramming_exercise.iml" filepath="$PROJECT_DIR$/.idea/bigdataprogramming_exercise.iml" />
     </modules>
   </component>
 </project>
