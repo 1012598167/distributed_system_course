@@ -6,7 +6,7 @@ import java.util.Iterator;
 public class BroadcastJoinMapperImpl extends BroadcastJoinMapper {
     @Override
     public Iterator<String> call(String order) {
-        System.out.println(this.persons.getValue());
+        System.out.println(persons.getValue());
         String[] splitAddress=order.split(",");
         Long key=new Long(splitAddress[2]);
         String NUM=splitAddress[1];
