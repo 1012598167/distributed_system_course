@@ -24,7 +24,8 @@ public class SelectMapperImpl extends SelectMapper{
         //        key.toString()
         //);
         Text word=new Text();
-        //int b=Integer.parseInt((String)os);
+        //int b=
+        // ((String)os);
         //private static IntWritable thekey=new IntWritable(key);
         String astring= "";
 
