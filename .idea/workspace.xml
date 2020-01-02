@@ -7,61 +7,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0875ddd-2fdb-4a32-9a44-950bb3d9bf74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/logs/workers-artifacts/wc-1-1574215467/1024/worker.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/workers-artifacts/wc-1-1574215507/1024/worker.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/workers-artifacts/wc-1-1574215903/1024/worker.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/workers-artifacts/wc-1-1574217281/1024/worker.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/.idea/artifacts/storm_silde_count_window.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/logs/workers-artifacts/slide_count_window-1-1573471724/1027/worker.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/logs/workers-artifacts/slide_count_window-1-1573471762/1024/worker.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/logs/workers-artifacts/slide_count_window-1-1573545373/1027/worker.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/logs/workers-artifacts/slide_count_window-1-1573545416/1027/worker.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/logs/workers-artifacts/slide_count_window-1-1573545647/1024/worker.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/logs/workers-artifacts/slide_count_window-1-1573545772/1027/worker.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/logs/workers-artifacts/slide_count_window-1-1573548399/1024/worker.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/logs/workers-artifacts/slide_count_window-1-1573549481/1027/worker.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/src/main/java/DSPPCode/storm/slide_count_window/FileReadSpout.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/src/main/java/DSPPCode/storm/slide_count_window/PrinterBolt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/src/main/java/DSPPCode/storm/slide_count_window/SlideCountWindowBolt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/src/main/java/DSPPCode/storm/slide_count_window/SlideCountWindowBoltImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/src/main/java/DSPPCode/storm/slide_count_window/util/FileProcess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/src/test/java/DSPPTest/student/TestTemplate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/src/test/java/DSPPTest/student/storm/slide_count_window/SlideCountWindowTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/src/test/java/DSPPTest/util/FileOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/src/test/java/DSPPTest/util/Parser/KVNumParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/src/test/java/DSPPTest/util/Parser/KVParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/src/test/java/DSPPTest/util/Parser/LineParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/src/test/java/DSPPTest/util/Parser/ListParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/src/test/java/DSPPTest/util/Verifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/src/test/resources/student/storm/slide_count_window/answer" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/src/test/resources/student/storm/slide_count_window/input" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/target/classes/DSPPCode/storm/slide_count_window/FileReadSpout.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/target/classes/DSPPCode/storm/slide_count_window/PrinterBolt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/target/classes/DSPPCode/storm/slide_count_window/SlideCountWindowBolt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/target/classes/DSPPCode/storm/slide_count_window/SlideCountWindowBoltImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/target/classes/DSPPCode/storm/slide_count_window/util/FileProcess.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/target/test-classes/DSPPTest/student/TestTemplate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/target/test-classes/DSPPTest/student/storm/slide_count_window/SlideCountWindowTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/target/test-classes/DSPPTest/util/FileOperator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/target/test-classes/DSPPTest/util/Parser/KVNumParser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/target/test-classes/DSPPTest/util/Parser/KVParser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/target/test-classes/DSPPTest/util/Parser/LineParser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/target/test-classes/DSPPTest/util/Parser/ListParser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/target/test-classes/DSPPTest/util/Verifier.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/target/test-classes/student/storm/slide_count_window/answer" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storm_slide_count_window/bigdataprogramming_exercise-storm_slide_count_window/target/test-classes/student/storm/slide_count_window/input" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DSPPCode/storm/warm_up/CountBoltImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DSPPCode/storm/warm_up/CountBoltImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/workers-artifacts/wc-1-1577946459/1024/worker.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/workers-artifacts/wc-1-1577946610/1024/worker.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/workers-artifacts/wc-1-1577946974/1024/worker.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSPP_Exercise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DSPP_Exercise.iml" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,6 +46,11 @@
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -110,18 +67,6 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="JUnit.WordCountTopologyTest.test">
     <configuration name="KMeansTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -213,6 +158,18 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -230,6 +187,7 @@
       <workItem from="1573126465824" duration="1518000" />
       <workItem from="1574067561364" duration="2690000" />
       <workItem from="1574070521700" duration="4486000" />
+      <workItem from="1577946445138" duration="571000" />
     </task>
     <servers />
   </component>
@@ -251,6 +209,40 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1199" height="311" key="GridCell.Tab.0.bottom" timestamp="1577946970267">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1199" height="311" key="GridCell.Tab.0.bottom/0.27.1920.988@0.27.1920.988" timestamp="1577946970267" />
+    <state width="1199" height="311" key="GridCell.Tab.0.center" timestamp="1577946970266">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1199" height="311" key="GridCell.Tab.0.center/0.27.1920.988@0.27.1920.988" timestamp="1577946970266" />
+    <state width="1199" height="311" key="GridCell.Tab.0.left" timestamp="1577946970266">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1199" height="311" key="GridCell.Tab.0.left/0.27.1920.988@0.27.1920.988" timestamp="1577946970266" />
+    <state width="1199" height="311" key="GridCell.Tab.0.right" timestamp="1577946970266">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1199" height="311" key="GridCell.Tab.0.right/0.27.1920.988@0.27.1920.988" timestamp="1577946970266" />
+    <state width="1199" height="311" key="GridCell.Tab.1.bottom" timestamp="1577946976481">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1199" height="311" key="GridCell.Tab.1.bottom/0.27.1920.988@0.27.1920.988" timestamp="1577946976481" />
+    <state width="1199" height="311" key="GridCell.Tab.1.center" timestamp="1577946976480">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1199" height="311" key="GridCell.Tab.1.center/0.27.1920.988@0.27.1920.988" timestamp="1577946976480" />
+    <state width="1199" height="311" key="GridCell.Tab.1.left" timestamp="1577946976480">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1199" height="311" key="GridCell.Tab.1.left/0.27.1920.988@0.27.1920.988" timestamp="1577946976480" />
+    <state width="1199" height="311" key="GridCell.Tab.1.right" timestamp="1577946976481">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1199" height="311" key="GridCell.Tab.1.right/0.27.1920.988@0.27.1920.988" timestamp="1577946976481" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -280,6 +272,16 @@
           <line>31</line>
           <option name="timeStamp" value="32" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DSPPCode/storm/warm_up/CountBoltImpl.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DSPPCode/storm/warm_up/CountBoltImpl.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -290,6 +292,9 @@
         <watch expression="result" language="JAVA" />
         <watch expression="result.trim()" language="JAVA" />
         <watch expression="new Values(result)" language="JAVA" />
+        <watch expression="tuple.getValue(1)" language="JAVA" />
+        <watch expression="counter.entrySet()" language="JAVA" />
+        <watch expression="counter.entrySet()" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
