@@ -6,8 +6,14 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0875ddd-2fdb-4a32-9a44-950bb3d9bf74" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="a0875ddd-2fdb-4a32-9a44-950bb3d9bf74" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/logs/workers-artifacts/topn-1-1577953027/1024/worker.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/workers-artifacts/topn-1-1577953066/1027/worker.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/workers-artifacts/topn-1-1577953093/1024/worker.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/bigdataprogramming_exercise.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/bigdataprogramming_exercise.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/bigdataprogramming_exercise.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/META-INF/bigdataprogramming_exercise.kotlin_module" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,18 +62,6 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="JUnit.TopNTest.test">
     <configuration name="KMeansTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -159,6 +153,18 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -199,6 +205,40 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
+  <component name="WindowStateProjectService">
+    <state width="1866" height="313" key="GridCell.Tab.0.bottom" timestamp="1577953090139">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1866" height="313" key="GridCell.Tab.0.bottom/0.27.1920.988@0.27.1920.988" timestamp="1577953090139" />
+    <state width="1866" height="313" key="GridCell.Tab.0.center" timestamp="1577953090138">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1866" height="313" key="GridCell.Tab.0.center/0.27.1920.988@0.27.1920.988" timestamp="1577953090138" />
+    <state width="1866" height="313" key="GridCell.Tab.0.left" timestamp="1577953090138">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1866" height="313" key="GridCell.Tab.0.left/0.27.1920.988@0.27.1920.988" timestamp="1577953090138" />
+    <state width="1866" height="313" key="GridCell.Tab.0.right" timestamp="1577953090138">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1866" height="313" key="GridCell.Tab.0.right/0.27.1920.988@0.27.1920.988" timestamp="1577953090138" />
+    <state width="1866" height="313" key="GridCell.Tab.1.bottom" timestamp="1577953097148">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1866" height="313" key="GridCell.Tab.1.bottom/0.27.1920.988@0.27.1920.988" timestamp="1577953097148" />
+    <state width="1866" height="313" key="GridCell.Tab.1.center" timestamp="1577953097148">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1866" height="313" key="GridCell.Tab.1.center/0.27.1920.988@0.27.1920.988" timestamp="1577953097148" />
+    <state width="1866" height="313" key="GridCell.Tab.1.left" timestamp="1577953097148">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1866" height="313" key="GridCell.Tab.1.left/0.27.1920.988@0.27.1920.988" timestamp="1577953097148" />
+    <state width="1866" height="313" key="GridCell.Tab.1.right" timestamp="1577953097148">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1866" height="313" key="GridCell.Tab.1.right/0.27.1920.988@0.27.1920.988" timestamp="1577953097148" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -231,6 +271,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/DSPPCode/storm/top_n/TopicCountBoltImpl.java</url>
           <line>55</line>
           <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DSPPCode/storm/top_n/TopicCountBoltImpl.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DSPPCode/storm/top_n/TopicCountBoltImpl.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="42" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
