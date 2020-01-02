@@ -200,6 +200,24 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
+  <component name="WindowStateProjectService">
+    <state width="1598" height="333" key="GridCell.Tab.0.bottom" timestamp="1577947417761">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1598" height="333" key="GridCell.Tab.0.bottom/0.27.1920.988@0.27.1920.988" timestamp="1577947417761" />
+    <state width="1598" height="333" key="GridCell.Tab.0.center" timestamp="1577947417761">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1598" height="333" key="GridCell.Tab.0.center/0.27.1920.988@0.27.1920.988" timestamp="1577947417761" />
+    <state width="1598" height="333" key="GridCell.Tab.0.left" timestamp="1577947417760">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1598" height="333" key="GridCell.Tab.0.left/0.27.1920.988@0.27.1920.988" timestamp="1577947417760" />
+    <state width="1598" height="333" key="GridCell.Tab.0.right" timestamp="1577947417761">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1598" height="333" key="GridCell.Tab.0.right/0.27.1920.988@0.27.1920.988" timestamp="1577947417761" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
