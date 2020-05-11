@@ -1,6 +1,4 @@
-# 大师编程 (DaSE Programming) 训练平台
-
-![](./logo.jpg)
+不同分支对应不同lab
 
 #### 1. 登录内网 VPN
 
